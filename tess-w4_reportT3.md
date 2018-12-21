@@ -36,8 +36,77 @@ data were available (two stars dropped out)
 
 ## FFT and PWT plots 
 
+This section contains all the figures on which we based the results given in table above.
+
 ### 182909257
 
 ![](FiguresG3/182909257.dat.png)
 
-** Coments: ** Posible triplet? 
+**Coments:** Posible triplet? 
+
+### 183802606_s1
+
+![](FiguresG3/183802606_s1.dat.png)
+
+**Coments:** mmm
+
+### 183802904
+
+![](FiguresG3/183802904.dat.png)
+
+**Coments:** mmm
+
+### 234346165_s1
+
+![](FiguresG3/234346165_s1.dat.png)
+
+**Coments:** mmm
+
+### 234346165_s2
+
+![](FiguresG3/234346165_s2.dat.png)
+
+**Coments:** mmm
+
+
+### 24693528
+
+![](FiguresG3/24693528.dat.png)
+
+**Coments:** mmm
+
+### 262956098
+
+![](FiguresG3/262956098.dat.png)
+
+**Coments:** mmm
+
+
+### 266905315
+
+![](FiguresG3/266905315.dat.png)
+
+**Coments:** mmm
+
+
+### 271503787_s1
+
+![](FiguresG3/271503787_s1.dat.png)
+
+**Coments:** mmm
+
+
+
+### 280051011
+
+![](FiguresG3/280051011.dat.png)
+
+**Coments:** mmm
+
+### 304096024_s1
+
+![](FiguresG3/304096024_s1.dat.png)
+
+**Coments:** mmm
+
+
