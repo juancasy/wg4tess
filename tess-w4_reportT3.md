@@ -24,7 +24,7 @@ data <- read.csv(file = filename, header = T, sep = ",",
                              stringsAsFactors = FALSE)
 ```
 
-![](Experiment_-_HD174936_files/figure-markdown_github/spectrum-1.png)
+![](FiguresG3/g3data_ini.png)
 ## FFT and PWT plots 
 
 
