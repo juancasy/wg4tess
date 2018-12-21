@@ -36,15 +36,6 @@ data were available (two stars dropped out)
 
 ## FFT and PWT plots 
 
+# 182909257
 
-
-
-## Including Plots
-
-You can also embed plots, for example:
-
-```{r pressure, echo=FALSE}
-plot(pressure)
-```
-
-Note that the `echo = FALSE` parameter was added to the code chunk to prevent printing of the R code that generated the plot.
+![](FiguresG3/182909257.dat.png)
