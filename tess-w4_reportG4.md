@@ -42,7 +42,7 @@ This section contains all the figures on which we based the results given in tab
 
 ![](FiguresG4/141028198_s2_t3.dat.png)
 
-**Coments:** kk
+**Coments:** MIARMA LC ok, Prot 1/0.16 (sale doble), freq SigSpec
 
 ### 141610473_s1_t3
 
