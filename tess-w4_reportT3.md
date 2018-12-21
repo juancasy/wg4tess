@@ -25,7 +25,7 @@ data <- read.csv(file = filename, header = T, sep = ",",
 ```
 
 ![](FiguresG3/g3data_ini.png)
-<img src="FiguresG3/g3data_ini.png" width="200">
+
 ## FFT and PWT plots 
 
 
