@@ -42,90 +42,89 @@ This section contains all the figures on which we based the results given in tab
 
 ![](FiguresG3/182909257.dat.png)
 
-**Coments:** MIARMA LC ok(*), Prot 1/0.31, freq SigSpec 
+**Coments:** MIARMA LC ok(*), Prot 1/0.31 (sale doble), freq SigSpec 
 
 ### 183802606_s1
 
 ![](FiguresG3/183802606_s1.dat.png)
 
-**Coments:** mmm
+**Coments:** MIARMA LC ok(*), Prot 1/0.44 (sale doble), freq SigSpec 
 
 ### 183802904
 
 ![](FiguresG3/183802904.dat.png)
 
-**Coments:** mmm
+**Coments:** MIARMA LC ok, Prot 1/0.04 (no sale doble ya que nu_rot cercano a 0), freq SigSpec
 
 ### 234346165_s1
 
 ![](FiguresG3/234346165_s1.dat.png)
 
-**Coments:** mmm
+**Coments:** MIARMA LC Bad, Prot 1/0.31 (sale doble), freq SigSpec (WARNING por relleno)
 
 ### 234346165_s2
 
 ![](FiguresG3/234346165_s2.dat.png)
 
-**Coments:** mmm
+**Coments:** MIARMA LC Ok(*), Prot 1/0.31 (sale doble), freq SigSpec
 
 
 ### 24693528
 
 ![](FiguresG3/24693528.dat.png)
 
-**Coments:** mmm
+**Coments:** MIARMA LC OK(*), No Prot, freq SigSpec (Clasific DScuti)
 
 ### 262956098
 
 ![](FiguresG3/262956098.dat.png)
 
-**Coments:** mmm
+**Coments:** MIARMA LC Ok(*), Prot 1/0.22 (sale doble), freq SigSpec
 
 
 ### 266905315
 
 ![](FiguresG3/266905315.dat.png)
 
-**Coments:** mmm
+**Coments:** NO VALIDAMOS
 
 
 ### 271503787_s1
 
 ![](FiguresG3/271503787_s1.dat.png)
 
-**Coments:** mmm
-
+**Coments:** MIARMA LC Ok(*), Prot 1/0.2 (sale doble aprox), freq SigSpec
 
 
 ### 280051011
 
 ![](FiguresG3/280051011.dat.png)
 
-**Coments:** mmm
+**Coments:** NO VALIDAMOS
 
 ### 304096024_s1
 
 ![](FiguresG3/304096024_s1.dat.png)
 
-**Coments:** mmm
+**Coments:** MIARMA LC Ok, Prot 1/0.13 (sale doble), freq SigSpec
 
 ### 31870361
 
 ![](FiguresG3/31870361.dat.png)
 
-**Coments:** mmm
+**Coments:** MIARMA LC OK(*), No Prot, freq SigSpec (Clasific DScuti)
 
 ### 392761412
 
 ![](FiguresG3/392761412.dat.png)
 
-**Coments:** mmm
+**Coments:** MIARMA LC Ok(*), Prot 1/0.48 (sale doble), freq SigSpec
 
 ### 52368859
 
 ![](FiguresG3/52368859.dat.png)
 
-**Coments:** mmm
+**Coments:** MIARMA LC Ok(*), Prot 1/0.62 (sale doble), freq SigSpec
 
 
 
