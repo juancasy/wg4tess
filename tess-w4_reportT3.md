@@ -109,4 +109,28 @@ This section contains all the figures on which we based the results given in tab
 
 **Coments:** mmm
 
+### 31870361
+
+![](FiguresG3/31870361.dat.png)
+
+**Coments:** mmm
+
+### 392761412
+
+![](FiguresG3/392761412.dat.png)
+
+**Coments:** mmm
+
+### 52368859
+
+![](FiguresG3/52368859.dat.png)
+
+**Coments:** mmm
+
+
+
+
+
+
+
 
