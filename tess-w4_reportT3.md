@@ -11,6 +11,24 @@ powerspectra (from `SigSpec`).
 For each star the comparison of both diagrams are displayed in a figure with 
 two panels.
 
+## The G3 data
+
+The list of **G3** stars are provided in the <https://tasoc.dk/wg4/> website. 
+The light curves were downloaded from MAST repository.
+
+
+```{r g3 data}
+pathdata <- "/Users/jcsuarez/Data/obs/TESS/Grupo3/"
+filename <- paste(pathdata,"g3_tessFLstars.csv", sep = "")
+data <- read.csv(file = filename, header = T, sep = ",", 
+                             stringsAsFactors = FALSE)
+show(data)
+```
+
+## FFT and PWT plots 
+
+
+
 
 ## Including Plots
 
