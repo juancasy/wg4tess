@@ -22,9 +22,9 @@ pathdata <- "/Users/jcsuarez/Data/obs/TESS/Grupo3/"
 filename <- paste(pathdata,"g3_tessFLstars.csv", sep = "")
 data <- read.csv(file = filename, header = T, sep = ",", 
                              stringsAsFactors = FALSE)
-show(data)
 ```
 
+![](Experiment_-_HD174936_files/figure-markdown_github/spectrum-1.png)
 ## FFT and PWT plots 
 
 
