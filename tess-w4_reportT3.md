@@ -36,6 +36,8 @@ data were available (two stars dropped out)
 
 ## FFT and PWT plots 
 
-# 182909257
+### 182909257
 
 ![](FiguresG3/182909257.dat.png)
+
+** Coments: ** Posible triplet? 
