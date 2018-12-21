@@ -32,7 +32,7 @@ data <- read.csv(file = filename, header = T, sep = ",",
 This table summarizes the results found for all the objects for which both FFT and SigSpec
 data were available (two stars dropped out)
 
-![](FiguresG3/g3results.png)
+![](FiguresG3/g3_results.png)
 
 ## FFT and PWT plots 
 
