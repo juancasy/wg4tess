@@ -42,7 +42,7 @@ This section contains all the figures on which we based the results given in tab
 
 ![](FiguresG3/182909257.dat.png)
 
-**Coments:** Posible triplet? 
+**Coments:** MIARMA LC ok(*), Prot 1/0.31, freq SigSpec 
 
 ### 183802606_s1
 
